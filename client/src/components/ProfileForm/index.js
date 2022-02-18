@@ -45,7 +45,7 @@ const ProfileForm = () => {
       >
         <div className="col-12 col-lg-9">
           <input
-            placeholder="Add your profile name..."
+            placeholder="Add your character's name..."
             value={name}
             className="form-input w-100"
             onChange={(event) => setName(event.target.value)}
