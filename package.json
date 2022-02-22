@@ -1,7 +1,7 @@
 {
   "name": "dnd_party_items",
   "version": "1.0.0",
-  "description": "",
+  "description": "dnd party application",
   "homepage": "https://ajread13.github.io/dnd_party_items",
   "main": "server/server.js",
   "scripts": {
